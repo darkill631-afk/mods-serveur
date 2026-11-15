@@ -1,0 +1,1319 @@
+{
+  "minecraft": "1.20.1",
+  "forge": "47.4.10",
+  "server": {
+    "ip": "talesofpaceanica.mine.fun",
+    "port": 21745
+  },
+  "ram": {
+    "min": "7G",
+    "max": "11G"
+  },
+  "mods": [
+    {
+      "name": "ATi Structures V1.4.3 (1.20+).jar",
+      "sha256": "f8b0e8af58a7125fc95e67222c22efca0e8797c8604a3f48ca97b501956f11fc",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/ATi%20Structures%20V1.4.3%20(1.20%2B).jar"
+    },
+    {
+      "name": "AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
+      "sha256": "41688a2ba90e5b07beb0e1844cfd0b21a4294b1073de144ae0a7f519b336a18b",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar"
+    },
+    {
+      "name": "ApothicAttributes-1.20.1-1.3.7.jar",
+      "sha256": "68487b11c0d4e2f67a85f2b04bf65e99ac15294f2923f4391f83e9542293187a",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/ApothicAttributes-1.20.1-1.3.7.jar"
+    },
+    {
+      "name": "Aquaculture-1.20.1-2.5.7.jar",
+      "sha256": "4c96cf0dd3363a8e15f9ef6b6bfc00ac7d4791e8e9eeebe19b8092c59e800f8f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Aquaculture-1.20.1-2.5.7.jar"
+    },
+    {
+      "name": "Armor of the Ages-forge-1.20.1-1.3.15.jar",
+      "sha256": "1abfc254d0ec223e318bf822e6d396a7c694a65776a5cd9cbfb4b05c0f5aafc8",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Armor%20of%20the%20Ages-forge-1.20.1-1.3.15.jar"
+    },
+    {
+      "name": "BadOptimizations-2.4.1-1.20.1.jar",
+      "sha256": "3da53cdf856757d9ec7df0be86bc23b2c7d67a019b490f8f64317d4d9b77cac8",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/BadOptimizations-2.4.1-1.20.1.jar"
+    },
+    {
+      "name": "BiomesOPlenty-1.20.1-18.0.0.592.jar",
+      "sha256": "c587b49931e62f89c2673936a5e7269c6daabb713dbcc30813cb0f76da37e01d",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/BiomesOPlenty-1.20.1-18.0.0.592.jar"
+    },
+    {
+      "name": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+      "sha256": "7980d4a0beed1dcd2c283cf65f3c93f6b0085833f3ac490014979c95f1dfaf67",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Bookshelf-Forge-1.20.1-20.2.15.jar"
+    },
+    {
+      "name": "Byzantine-1.21.1-51.jar",
+      "sha256": "9af9c37d81e184e98b49f7c5eaae7c55a905877249281271448365b3a4b1d684",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Byzantine-1.21.1-51.jar"
+    },
+    {
+      "name": "Chunky-1.3.146.jar",
+      "sha256": "996a3c9b53e6c0e0850fb9e78d3546d2c37a1b789ddaf529b17e4fe62ab23141",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Chunky-1.3.146.jar"
+    },
+    {
+      "name": "Clothing_Of_The_Lowlands-1.0.8-forge-1.20.1.jar",
+      "sha256": "c43c743f95e25ceb845528d6612b8405ca2dd52e4807f679645516d1197cf303",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Clothing_Of_The_Lowlands-1.0.8-forge-1.20.1.jar"
+    },
+    {
+      "name": "Coins-Forge-1.20.1-13.0.4.jar",
+      "sha256": "47296ece51f798b42b3f47203850728a4c5cf0829efad0063b824a5d463559bf",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Coins-Forge-1.20.1-13.0.4.jar"
+    },
+    {
+      "name": "Colored Water-1.20.1-1.3.8.jar",
+      "sha256": "3651a7e209c2dae7338a69c5068811d44885fff257c56205d7a97e2612853eb4",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Colored%20Water-1.20.1-1.3.8.jar"
+    },
+    {
+      "name": "Contact-forge-1.2.3.jar",
+      "sha256": "b1ebafec86250a145a3da515e6dbdd4761dedefff69359d95ab6b52974487974",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Contact-forge-1.2.3.jar"
+    },
+    {
+      "name": "Controlling-forge-1.20.1-12.0.2.jar",
+      "sha256": "516308a93824119f6a1ebc75425aa21ee8f8de0c331942793a054ba6d9c24944",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Controlling-forge-1.20.1-12.0.2.jar"
+    },
+    {
+      "name": "CraftTweaker-forge-1.20.1-14.0.60.jar",
+      "sha256": "6bf5887393268e88ec76dff95af4742277bf955d5130464d4ccf792aed9ab6e8",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/CraftTweaker-forge-1.20.1-14.0.60.jar"
+    },
+    {
+      "name": "CreativeCore_FORGE_v2.12.38_mc1.20.1.jar",
+      "sha256": "629afffc34377f27813466a5b8e9e83b5aea198462ff776780776be4693a7ead",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/CreativeCore_FORGE_v2.12.38_mc1.20.1.jar"
+    },
+    {
+      "name": "Cuffed-1.20.1-1.3.14.jar",
+      "sha256": "1a0201de1ef8cc1ead35b19bdea7d656e6aa3c0139d8996d531d1f03f5f3d550",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Cuffed-1.20.1-1.3.14.jar"
+    },
+    {
+      "name": "Dori-(1.20.x-1.20.4).jar",
+      "sha256": "bfaee87a79d9986d17064a0732a7fc8678f558edd1114b06bdc592da8ef9f0d7",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Dori-(1.20.x-1.20.4).jar"
+    },
+    {
+      "name": "EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+      "sha256": "a08b641e6cc1d4867e0878826ac4fb9e55b45907d0fa3429172ecad8cd678ce9",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/EasyAnvils-v8.0.2-1.20.1-Forge.jar"
+    },
+    {
+      "name": "EasyMagic-v8.0.1-1.20.1-Forge.jar",
+      "sha256": "235a2b0be24bc83a89253e0ee4fc973abfc7cc7caed0fdd698dd139ba91ec367",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/EasyMagic-v8.0.1-1.20.1-Forge.jar"
+    },
+    {
+      "name": "Emojiful-Forge-1.20.1-4.2.0.jar",
+      "sha256": "5c9a41d6a1744bf65695dbe3473c0f5e60f8616b146afd6353f802b25454efe7",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Emojiful-Forge-1.20.1-4.2.0.jar"
+    },
+    {
+      "name": "Evoodooers-forge-1.20.1-1.0.0.jar",
+      "sha256": "b5e27412aa3cffc5a5ad25e1a0c21102b03f5d48b65bcbe575455bc1820e298c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Evoodooers-forge-1.20.1-1.0.0.jar"
+    },
+    {
+      "name": "ExtraLib-3.0.4-1.20.1-Forge.jar",
+      "sha256": "410bb37a5590b5445d2821b68753d1caa3d7391e25902772fb9559379ed88663",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/ExtraLib-3.0.4-1.20.1-Forge.jar"
+    },
+    {
+      "name": "ExtraQuests-1.7.0-1.20.1-Forge.jar",
+      "sha256": "088bdb55a285849280dcd4ad9f23eeb6903c27244df6a02d28e5d09585dfcc07",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/ExtraQuests-1.7.0-1.20.1-Forge.jar"
+    },
+    {
+      "name": "FarmersDelight-1.20.1-1.2.11.jar",
+      "sha256": "9a2db05541f07e15a81d514f4f47627f1c738d0464c1885765aa460117909318",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/FarmersDelight-1.20.1-1.2.11.jar"
+    },
+    {
+      "name": "FarmersStructures-1.0.4-1.20.jar",
+      "sha256": "f2b928394535398a609ec91858fbc63d2233fa957db83fda3372eefa645d02df",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/FarmersStructures-1.0.4-1.20.jar"
+    },
+    {
+      "name": "FastLeafDecay-32.jar",
+      "sha256": "ce48db06bfb5830c147969793771a8f8b5a5774b182543b906bc439efd4e9469",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/FastLeafDecay-32.jar"
+    },
+    {
+      "name": "Forge 1.20.1 Minecraft Middle Ages 0.0.5.jar",
+      "sha256": "217e69fe4429c25611cef0aa9372e0f319a317638ab54607b6c68157208ff753",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Forge%201.20.1%20Minecraft%20Middle%20Ages%200.0.5.jar"
+    },
+    {
+      "name": "GeckoLibOculusCompat-Forge-1.0.1.jar",
+      "sha256": "d2047c888aa0ded9ba13a24d3eafd37239e28a9eea0b18d20a3e3e74a3a19250",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/GeckoLibOculusCompat-Forge-1.0.1.jar"
+    },
+    {
+      "name": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "sha256": "e42a8b513da08a910c133caeafad9fc2fcc22fdaaa2eb3e2516e9112a5a0db61",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+    },
+    {
+      "name": "HundredYearsWar-0.5.4r-fix3-1.20.1-forge.jar",
+      "sha256": "ade57595127ab219a113c1d02660cdbd41609ea8874d11753763f3db5023805b",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/HundredYearsWar-0.5.4r-fix3-1.20.1-forge.jar"
+    },
+    {
+      "name": "ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
+      "sha256": "da781a31b2c8d8a845ed48c89b6463f1df3f2c655de10d8d4f5bed8123ff68a8",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/ImmediatelyFast-Forge-1.5.4%2B1.20.4.jar"
+    },
+    {
+      "name": "JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "sha256": "311d3a83db489d27b96cd15deb690ce64c78cffb552c25c3dff85956a14ec09e",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/JustEnoughResources-1.20.1-1.4.0.247.jar"
+    },
+    {
+      "name": "Ksyxis-1.4.3.jar",
+      "sha256": "23c8c5993004f0584eb27b19b4397b7aa8833f41b8f2d1ea201ee54a60f964b9",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Ksyxis-1.4.3.jar"
+    },
+    {
+      "name": "L_Enders_Cataclysm-3.16.jar",
+      "sha256": "ac1028f4bfaa2629d80ce3c1f26e28ceec2e6f2aaaac3bb03dd8957856d2e7ca",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/L_Enders_Cataclysm-3.16.jar"
+    },
+    {
+      "name": "Lazr's Lib-1.20-1.1.1.jar",
+      "sha256": "0935a08ae878f498f5423daa3f4c2facd78f1056b770fe1411bd16e2cf57ab3a",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Lazr's%20Lib-1.20-1.1.1.jar"
+    },
+    {
+      "name": "LocalizedChat-forge-1.20.1-5.1.3.jar",
+      "sha256": "7f5acaf89d4aacb042fd765ca69ff0540837b693e8450ddefff00a36795be3b1",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/LocalizedChat-forge-1.20.1-5.1.3.jar"
+    },
+    {
+      "name": "Luminous Butterflies V1.2.1 - Forge 1.20.1.jar",
+      "sha256": "0d32ca122926cc214b815fcdfb2b737b43a86332d5d3c64476bd55ec08e3c2db",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Luminous%20Butterflies%20V1.2.1%20-%20Forge%201.20.1.jar"
+    },
+    {
+      "name": "MRU-1.0.4+1.20.1+forge.jar",
+      "sha256": "520c07bceb8987c4bb355d32b495ae03e4f106553df47b1a9691a08420016fa2",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/MRU-1.0.4%2B1.20.1%2Bforge.jar"
+    },
+    {
+      "name": "MyNethersDelight-1.20.1-0.1.8.jar",
+      "sha256": "56e93306cbf225b3a4e6868d8dc09305411001c83dafff8df79edc9ef9245231",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/MyNethersDelight-1.20.1-0.1.8.jar"
+    },
+    {
+      "name": "NaturesCompass-1.20.1-1.12.0-forge.jar",
+      "sha256": "bc3601e9e050802569647de843fe9d3160934c5f31412cba62ca2ea8c1485197",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/NaturesCompass-1.20.1-1.12.0-forge.jar"
+    },
+    {
+      "name": "Necronomicon-Forge-1.6.0+1.20.1.jar",
+      "sha256": "403b23457288c624a55feb90d5e813c88c23a611bc42cda397c4bfac94b4c3a3",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Necronomicon-Forge-1.6.0%2B1.20.1.jar"
+    },
+    {
+      "name": "OELib-forge-1.20.1-0.2.4.1.jar",
+      "sha256": "f475dbf5c9be9164a5a5f28a59460fb0f4b83c57c6b615d04c350c882c7c471f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/OELib-forge-1.20.1-0.2.4.1.jar"
+    },
+    {
+      "name": "Patchouli-1.20.1-85-FORGE.jar",
+      "sha256": "05f7b5d52f6b8f0fd7f8b4822fa07a192d1394d83a264309c9d221d6d4fd21c5",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Patchouli-1.20.1-85-FORGE.jar"
+    },
+    {
+      "name": "Pehkui-3.8.2+1.20.1-forge.jar",
+      "sha256": "54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Pehkui-3.8.2%2B1.20.1-forge.jar"
+    },
+    {
+      "name": "PineappleDelight-1.1.2-1.20.1-forge.jar",
+      "sha256": "20edaa70abe82005f8dab90253ceaa7fb5c32b2e1544533e8e7d3857db8cc12f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/PineappleDelight-1.1.2-1.20.1-forge.jar"
+    },
+    {
+      "name": "Placebo-1.20.1-8.6.3.jar",
+      "sha256": "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Placebo-1.20.1-8.6.3.jar"
+    },
+    {
+      "name": "PrettyPipes-1.15.0-all.jar",
+      "sha256": "8d5d0bf687d7377067fc55e94d361e4a01b1a6710d13caba72f7af61c6e84438",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/PrettyPipes-1.15.0-all.jar"
+    },
+    {
+      "name": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "sha256": "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
+    },
+    {
+      "name": "Quick Skin - Forge - 1.20.1-2.6.2.4.jar",
+      "sha256": "59508bb8d87a8bc8f5ad768fce86a12466fab11c512ba434834aa37a45598af9",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Quick%20Skin%20-%20Forge%20-%201.20.1-2.6.2.4.jar"
+    },
+    {
+      "name": "RamadanDelight-1.20.1-1.7.jar",
+      "sha256": "51f7c7b619355088b7ec4d5dcceda9360c3abb868d036f736dbb48ac999b8042",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/RamadanDelight-1.20.1-1.7.jar"
+    },
+    {
+      "name": "Rats-1.20.1-8.1.3.jar",
+      "sha256": "9a73aa327f8d48a06208bb6f47f03799e061eac8714f09301df0ef5d34ca5f3c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Rats-1.20.1-8.1.3.jar"
+    },
+    {
+      "name": "ScorchedGuns-0.5.5-1.20.1.jar",
+      "sha256": "f339dd8444eaf4623449cd11db092beb1f02f14f5d03045a0394070b0ea50170",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/ScorchedGuns-0.5.5-1.20.1.jar"
+    },
+    {
+      "name": "Searchables-forge-1.20.1-1.0.3.jar",
+      "sha256": "c1a76e93886210574d3f298c0461241fb711e52ac22c7a04d3236840f29e6576",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Searchables-forge-1.20.1-1.0.3.jar"
+    },
+    {
+      "name": "SlavicDelight-0.3.0-forge-1.20.1.jar",
+      "sha256": "37dd25a8f3f84c14618b92f1d0fd78d36a349a963c6b2f36eb049ead4c53b807",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/SlavicDelight-0.3.0-forge-1.20.1.jar"
+    },
+    {
+      "name": "SmartBrainLib-forge-1.20.1-1.15.jar",
+      "sha256": "665f65f77cc36379a9ae11c09db5d9efa1ad4f8d017edc8f65903ff27cacdb1d",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/SmartBrainLib-forge-1.20.1-1.15.jar"
+    },
+    {
+      "name": "SoLOnion_FORGE_v1.4.5_mc1.20.1.jar",
+      "sha256": "adbaba6124ece47ef98bf60eeba0c87c89cdbb5cfd75ebf14f24967fcc622b98",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/SoLOnion_FORGE_v1.4.5_mc1.20.1.jar"
+    },
+    {
+      "name": "SpartanShields-1.20.1-forge-3.1.1.jar",
+      "sha256": "920368908e26e1a75186e06affd03274d0fe93770d5c5d12c177f53d7aa1deac",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/SpartanShields-1.20.1-forge-3.1.1.jar"
+    },
+    {
+      "name": "SpartanWeaponry-1.20.1-forge-3.2.1-all.jar",
+      "sha256": "2736ac2dd52a7b3a188df454e61a4154cd36e273fa770f3ab89dcf6e732e88ad",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/SpartanWeaponry-1.20.1-forge-3.2.1-all.jar"
+    },
+    {
+      "name": "TaxFreeLevels-1.4.20-forge-1.20.1.jar",
+      "sha256": "bde907486aea74f3249daab75e38052163b95fa6be1eb91c9bd926c18a76f4c4",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/TaxFreeLevels-1.4.20-forge-1.20.1.jar"
+    },
+    {
+      "name": "TaxOceanVillager+M.1.20.1+ForM.4.0.1.jar",
+      "sha256": "ad46c38d966abebae8d39712ca4891bd94a932c18e9ed4a9661a829090449dd6",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/TaxOceanVillager%2BM.1.20.1%2BForM.4.0.1.jar"
+    },
+    {
+      "name": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "sha256": "c109016f46ca9bdae69976bf080bbf2e8e5968cb66c0a78845f8ca6af5dbbeb1",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+    },
+    {
+      "name": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+      "sha256": "9c8115af7109579da990249fdd67b38323a45be70f8a3a962b61da69c7021984",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/Towns-and-Towers-1.12-Fabric%2BForge.jar"
+    },
+    {
+      "name": "VeggiesDelight-1.20.1-1.9.2.jar",
+      "sha256": "29f1ec010b3411b430ae06a5ce6ab6fa4b0d5e820b567807622d35eda5a24cc3",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/VeggiesDelight-1.20.1-1.9.2.jar"
+    },
+    {
+      "name": "VisualWorkbench-v8.0.1-1.20.1-Forge.jar",
+      "sha256": "915f226fa14ce274879487dd14f38af5c57e1a9ada85099501134c4c8a03897a",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/VisualWorkbench-v8.0.1-1.20.1-Forge.jar"
+    },
+    {
+      "name": "VitalityHUD-1.20.1-Forge-1.4.0-HUD-position.jar",
+      "sha256": "77d60249093f00c0779c0acecf6a7c93a377b3a0ff6a2764a6d390b7f14d947a",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/VitalityHUD-1.20.1-Forge-1.4.0-HUD-position.jar"
+    },
+    {
+      "name": "YungsApi-1.20-Forge-4.0.6.jar",
+      "sha256": "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/YungsApi-1.20-Forge-4.0.6.jar"
+    },
+    {
+      "name": "[1.20-1.20.1] Comics Bubbles Chat-1.3.4.jar",
+      "sha256": "f0f828feb89b5d91e0737db981a5013520437ec56fa482e907e91dca36fc7062",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/%5B1.20-1.20.1%5D%20Comics%20Bubbles%20Chat-1.3.4.jar"
+    },
+    {
+      "name": "accessories-neoforge-1.0.0-beta.48+1.20.1.jar",
+      "sha256": "1da10e840cbbf08338a1690c3045d21a6b7c46681fa69ef3054698c97cb98e0d",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/accessories-neoforge-1.0.0-beta.48%2B1.20.1.jar"
+    },
+    {
+      "name": "admin_chunk_manager-1.0.2.jar",
+      "sha256": "40bdaa07ced8afa8cb07fbc333f827a5e724972b471796e57c304763ef5d725a",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/admin_chunk_manager-1.0.2.jar"
+    },
+    {
+      "name": "alexscaves-2.0.2.jar",
+      "sha256": "131e205ce3eed384d701b336d8a0d4a671108ed56b6eff6014f0e407db2997f0",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/alexscaves-2.0.2.jar"
+    },
+    {
+      "name": "alexscaves_torpedoes-1.0.4.jar",
+      "sha256": "746084af019a208dde2ca17e8ca8e30e64b4ee69ff4167f4b692aec4e7ad5fcd",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/alexscaves_torpedoes-1.0.4.jar"
+    },
+    {
+      "name": "alexscavesdelight-1.0.27-final.jar",
+      "sha256": "2f3d350e46fc2269fbe16cce924ca66649518df123658ecd4028d26bf9ebca2d",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/alexscavesdelight-1.0.27-final.jar"
+    },
+    {
+      "name": "alexsdelight-1.5.jar",
+      "sha256": "439da92c904959e805c2237ebda9e96db60870dd3b58b4b402547d494fa0057a",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/alexsdelight-1.5.jar"
+    },
+    {
+      "name": "alexsmobs-1.22.9.jar",
+      "sha256": "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/alexsmobs-1.22.9.jar"
+    },
+    {
+      "name": "alltheleaks-1.1.1+1.20.1-forge.jar",
+      "sha256": "7b8e945da294b745e6aed9f88f28e232a767e032d7c2b8137a8ef36421d9fb33",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/alltheleaks-1.1.1%2B1.20.1-forge.jar"
+    },
+    {
+      "name": "almanac-1.20.x-forge-1.0.2.jar",
+      "sha256": "b8e0b42329c11739201d132bc99720e8205badc4ce862b30e4eec04b833e3419",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/almanac-1.20.x-forge-1.0.2.jar"
+    },
+    {
+      "name": "amendments-1.20-2.2.5.jar",
+      "sha256": "2ecb189991320d789cd2c539d770b5b52ad71eff93d186297d10853bcb6ee00a",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/amendments-1.20-2.2.5.jar"
+    },
+    {
+      "name": "angelring-1.20.1-2.3.1.jar",
+      "sha256": "5954ce71e859ec807ffe0a8b5de9f2ff3a2c03ccde29cff609cc8dd1e90aefe8",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/angelring-1.20.1-2.3.1.jar"
+    },
+    {
+      "name": "aquaculturedelight-1.1.1-forge-1.20.1.jar",
+      "sha256": "eae5e753536614fbcf968f3f11cae54779d07e8547199ea5800dbb17617bfeee",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/aquaculturedelight-1.1.1-forge-1.20.1.jar"
+    },
+    {
+      "name": "architectury-9.2.14-forge.jar",
+      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/architectury-9.2.14-forge.jar"
+    },
+    {
+      "name": "balm-forge-1.20.1-7.3.38-all.jar",
+      "sha256": "cbe8008218f0f574bc1f78b532cac5f978c33bf36ae2e14805340eab445fdb08",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/balm-forge-1.20.1-7.3.38-all.jar"
+    },
+    {
+      "name": "betterfpsdist-1.20.1-6.0.jar",
+      "sha256": "0fa8855bcdc67962f109a096381107f58917faa64c61dd99b32ae0e738aae4f7",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/betterfpsdist-1.20.1-6.0.jar"
+    },
+    {
+      "name": "bighorsestable-1.0.2-forge-1.20.1.jar",
+      "sha256": "0ea8cec30b260eabee9e6a48bf9b3ca9764b203f87fe4776c75a4993be813405",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/bighorsestable-1.0.2-forge-1.20.1.jar"
+    },
+    {
+      "name": "blockui-1.20.1-1.0.193.jar",
+      "sha256": "0658aea747cfaea37171ea0794e420c4ac40e638b1d7dec50d196086b80a4cb7",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/blockui-1.20.1-1.0.193.jar"
+    },
+    {
+      "name": "born_in_chaos_[Forge]1.20.1_1.7.5.jar",
+      "sha256": "9f242f4f3330f3d0d985f5f3ce9a92fe09016ff9c6162252f201d17009b28d7d",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/born_in_chaos_%5BForge%5D1.20.1_1.7.5.jar"
+    },
+    {
+      "name": "braziliandelight-forge-2.0.3+1.20.1.jar",
+      "sha256": "1b8a972db427e9f03f723cc9f625ba6a1a255d2fa378cf48b8367bc660928b4c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/braziliandelight-forge-2.0.3%2B1.20.1.jar"
+    },
+    {
+      "name": "butchery-5.1-forge-1.20.1.jar",
+      "sha256": "af4d02ad18b3fc9f1c0005630ac14ffe8c415f475933a0ba14e344e227bc1b7f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/butchery-5.1-forge-1.20.1.jar"
+    },
+    {
+      "name": "caelus-forge-3.2.0+1.20.1.jar",
+      "sha256": "37495445e79df8b30a3a038a0051f3c8aa8447f91a9d0aa0d20baef69dda9368",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/caelus-forge-3.2.0%2B1.20.1.jar"
+    },
+    {
+      "name": "cagebox-v1.0.1-minecraft1.20.1.jar",
+      "sha256": "40f114f0a9b711d96719544e28cf324bccf20b21eea7e877cbe28fe1efc016fc",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/cagebox-v1.0.1-minecraft1.20.1.jar"
+    },
+    {
+      "name": "ccw-v1.2.5-mc1.20.1.jar",
+      "sha256": "c8592fffdf5b8fb21d8412a599bc1655c444be26f23ff6a397d7f5f5839bc5a5",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/ccw-v1.2.5-mc1.20.1.jar"
+    },
+    {
+      "name": "chefsdelight-1.0.4-forge-1.20.1.jar",
+      "sha256": "c8af30759853f16de8025eaa175526a62fb3c2df705c31f50c7f779942361e00",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/chefsdelight-1.0.4-forge-1.20.1.jar"
+    },
+    {
+      "name": "chunksending-1.20.1-2.8.jar",
+      "sha256": "54207d488545db565838bad97db7978800f5171e02c4ab7741b9ee5cd8ab5001",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/chunksending-1.20.1-2.8.jar"
+    },
+    {
+      "name": "citadel-2.6.3-1.20.1.jar",
+      "sha256": "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/citadel-2.6.3-1.20.1.jar"
+    },
+    {
+      "name": "cloth-config-11.1.136-forge.jar",
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/cloth-config-11.1.136-forge.jar"
+    },
+    {
+      "name": "cofh_core-1.20.1-11.0.2.56.jar",
+      "sha256": "d7cd3ec8083e294e17cb50fe607b416c1dc83ce885e53ba3995d86e028f790e0",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/cofh_core-1.20.1-11.0.2.56.jar"
+    },
+    {
+      "name": "collective-1.20.1-8.22.jar",
+      "sha256": "f5266d805601c540baa1a908387b71b674fe967337226cf1b9d3e0aceba36cee",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/collective-1.20.1-8.22.jar"
+    },
+    {
+      "name": "companions-forge-1.20.1-1.2.3.jar",
+      "sha256": "4c518e239a66116df525fdf1ef162cc83eac52d1d20b0a052ab615bf035bde5c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/companions-forge-1.20.1-1.2.3.jar"
+    },
+    {
+      "name": "compatdelight-1.0.1.1.jar",
+      "sha256": "d4a51b915086dbc952c357ead9a4c62aab85c062503bb548d1275bc559344ab9",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/compatdelight-1.0.1.1.jar"
+    },
+    {
+      "name": "configured-forge-1.20.1-2.2.3.jar",
+      "sha256": "05dceddd57825f911135c929504ef320b75953d05e7dc918dba58a0574e5315f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/configured-forge-1.20.1-2.2.3.jar"
+    },
+    {
+      "name": "copycats-3.0.7+mc.1.20.1-forge.jar",
+      "sha256": "bc59446d8aff50924f805286927a1bda3df16c6f4e6f893865f410e581b62f1a",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/copycats-3.0.7%2Bmc.1.20.1-forge.jar"
+    },
+    {
+      "name": "corpse-forge-1.20.1-1.0.23.jar",
+      "sha256": "8d77c5fc8dc981c750a8e66d4665f055457f748f0ce49a303d9bc50347bdbf7c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/corpse-forge-1.20.1-1.0.23.jar"
+    },
+    {
+      "name": "cosmeticarmorreworked-1.20.1-v1a.jar",
+      "sha256": "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/cosmeticarmorreworked-1.20.1-v1a.jar"
+    },
+    {
+      "name": "create-1.20.1-6.0.8.jar",
+      "sha256": "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/create-1.20.1-6.0.8.jar"
+    },
+    {
+      "name": "create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar",
+      "sha256": "1ed474df7dcd5a3847953a232acb981b49008273cc721737f3db4cc41d24cb89",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar"
+    },
+    {
+      "name": "create_hypertube-0.4.0-FORGE.jar",
+      "sha256": "403a1056ae84ce9128436697160f6c3ce5c9c5631952059570c40999cf08811f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/create_hypertube-0.4.0-FORGE.jar"
+    },
+    {
+      "name": "createaddition-1.20.1-1.3.3.jar",
+      "sha256": "9bf3ae15d86ec95d128542caf10e4b5498e49ca02f725b9302d6daecd5eae1db",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/createaddition-1.20.1-1.3.3.jar"
+    },
+    {
+      "name": "cristellib-1.1.6-forge.jar",
+      "sha256": "3856ad565ea45d6189452d813e2f021b365b686d3b1adae5f747c56a1e535d9f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/cristellib-1.1.6-forge.jar"
+    },
+    {
+      "name": "cupboard-1.20.1-3.7.jar",
+      "sha256": "7c6069d42e3693dc4f80d06632f008fffe6f2507902dfca6c02bf035776ccaf3",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/cupboard-1.20.1-3.7.jar"
+    },
+    {
+      "name": "curios-forge-5.14.1+1.20.1.jar",
+      "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/curios-forge-5.14.1%2B1.20.1.jar"
+    },
+    {
+      "name": "darksmelting-forge-1.20.1-1.0.5.jar",
+      "sha256": "629833c3d9b6b399443d035a5178f4a0144bd8ac0cc3b704484d2ad7fbfcf557",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/darksmelting-forge-1.20.1-1.0.5.jar"
+    },
+    {
+      "name": "decorative_blocks-forge-1.20.1-4.1.3.jar",
+      "sha256": "19bc47b32258dd703b808f76e7b89da1746ecddaec4ad2bd5eaa356c0d2b3d87",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/decorative_blocks-forge-1.20.1-4.1.3.jar"
+    },
+    {
+      "name": "deltaboxlib-forge-2.2.0+1.20.1.jar",
+      "sha256": "610ea0d84d7f97c1c9a2ca7b2090214198f099e64e70006e2afc0ddf1f709cc0",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/deltaboxlib-forge-2.2.0%2B1.20.1.jar"
+    },
+    {
+      "name": "displaydelight-1.6.0.jar",
+      "sha256": "136f47e5c3feb4e9551385f10c74652947ae1ec31e21110a0670c32b59a62ea7",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/displaydelight-1.6.0.jar"
+    },
+    {
+      "name": "domum_ornamentum-1.20.1-1.0.296-universal.jar",
+      "sha256": "a5a46c0bcadbcaa36a69b8be32f6eeec0c655b2990f6f6c0c8c61ddb569e809f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/domum_ornamentum-1.20.1-1.0.296-universal.jar"
+    },
+    {
+      "name": "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+      "sha256": "b0ecdf3a0619208441062ceeebce79256223ac4e341844a09a6859170d671920",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/dynamic-fps-3.11.4%2Bminecraft-1.20.0-forge.jar"
+    },
+    {
+      "name": "dynamiclights-v1.9-mc1.17-1.21.5-mod.jar",
+      "sha256": "ebe75b8d8a50cfbbf42daccb78b2d8b80c57e33c866dd4409e5403ffb4c7c7f4",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/dynamiclights-v1.9-mc1.17-1.21.5-mod.jar"
+    },
+    {
+      "name": "easy_npc-forge-1.20.1-6.17.0.jar",
+      "sha256": "c7c920f381dba45d4f8ae0408318ecdb3cc7e249e447554eaa53490c2d5bd099",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/easy_npc-forge-1.20.1-6.17.0.jar"
+    },
+    {
+      "name": "easy_npc_bundle-forge-1.20.1-6.17.0.jar",
+      "sha256": "805263753b6bb673a8b61aa280641fa015dece59de238ce6a5b2a6fa11da34d2",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/easy_npc_bundle-forge-1.20.1-6.17.0.jar"
+    },
+    {
+      "name": "easy_npc_config_ui-forge-1.20.1-6.17.0.jar",
+      "sha256": "21cc99e3a7133c680c17d6eaf124b5da6ba3f69f0b3349d917ba6aa4ff77038a",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/easy_npc_config_ui-forge-1.20.1-6.17.0.jar"
+    },
+    {
+      "name": "embeddium-0.3.31+mc1.20.1.jar",
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/embeddium-0.3.31%2Bmc1.20.1.jar"
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "sha256": "ffaac96e37e6fa950080e2eb4aa361aa8b7bd6c4370862f39893ac2d266d7c14",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar"
+    },
+    {
+      "name": "enchanted-forge-1.20.1-3.1.13.jar",
+      "sha256": "9f4ea33f5de9fde9ffe030216385f2e3bae587451efbdaf9e7f4fe73feae666d",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/enchanted-forge-1.20.1-3.1.13.jar"
+    },
+    {
+      "name": "endersdelight-forge-1.20.1-1.1.3.jar",
+      "sha256": "d262e71af4d811208b6ddca243356367a0a8c6d46361dcdaf6217a0c651c9b96",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/endersdelight-forge-1.20.1-1.1.3.jar"
+    },
+    {
+      "name": "entityculling-forge-1.10.2-mc1.20.1.jar",
+      "sha256": "34da8e10cf31ade2b86b02e4f55c4d3b480a0992148ac12f9ec49eb7be4bfda0",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/entityculling-forge-1.10.2-mc1.20.1.jar"
+    },
+    {
+      "name": "etched-3.0.4.jar",
+      "sha256": "18fa648a887eb8ae284e278b1c361c8bffe73947336761d8b1787052dd34fe69",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/etched-3.0.4.jar"
+    },
+    {
+      "name": "extragolems-20.1.0.2.jar",
+      "sha256": "9cf8b4b8fbb8ce4de87893f38a50ef10b73905bdf0f703d72917b0b8fbcb2aa0",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/extragolems-20.1.0.2.jar"
+    },
+    {
+      "name": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
+      "sha256": "9b140af437581d32e5ee17d20f8fe882000e6a34cba85c152ae5bccc9570cc03",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/fabric-api-0.92.6%2B1.11.14%2B1.20.1.jar"
+    },
+    {
+      "name": "fantasy_armor-forge-1.2.4-1.20.1.jar",
+      "sha256": "60723448eb979d29da51bd6fe71e6ef1b695decd3d91da76f1e970664bf80693",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/fantasy_armor-forge-1.2.4-1.20.1.jar"
+    },
+    {
+      "name": "fantasy_weapons-forge-0.4-1.20.1.jar",
+      "sha256": "c3622380f9d8aeaada06a5b1bc900dd42a3ecc8acaf6efeb04e0d7141d681f25",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/fantasy_weapons-forge-0.4-1.20.1.jar"
+    },
+    {
+      "name": "fantasydice-1.20.1-10.0.0.jar",
+      "sha256": "0fecf36afbc5dbe958f16ca7eed9af9ca82d7c1b819fbbe3a79048a81692930d",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/fantasydice-1.20.1-10.0.0.jar"
+    },
+    {
+      "name": "fantasyfurniture-1.20.1-9.0.0.jar",
+      "sha256": "11035b688bb1018a7ebfdaa868ffe6ace87e533b678dcf3b689c15f79fe1af2c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/fantasyfurniture-1.20.1-9.0.0.jar"
+    },
+    {
+      "name": "farmers-cutting-biomes-o-plenty-1.0.0.jar",
+      "sha256": "775ce3a277b4feb02b99df4f6696e41c03c56ccdd85b5827f40414df19126131",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/farmers-cutting-biomes-o-plenty-1.0.0.jar"
+    },
+    {
+      "name": "farmerslarder-1.1.0-forge-1.20.1.jar",
+      "sha256": "2bdad5c5bb8ef9b7ffa8dbebff0368b2d4321685e156d0efdc8af7a04cd8eefc",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/farmerslarder-1.1.0-forge-1.20.1.jar"
+    },
+    {
+      "name": "farmersplus-1.0.3.jar",
+      "sha256": "562ae582e40bf100f9fae76dc5f049f4a11726f6fcb1efec5d8674884bb24bc5",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/farmersplus-1.0.3.jar"
+    },
+    {
+      "name": "fastboot-1.20.x-1.2.jar",
+      "sha256": "66c44b0648a3e3d4115c37593208b85668a97ce012355bad3d33f3cd8142a11f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/fastboot-1.20.x-1.2.jar"
+    },
+    {
+      "name": "ferritecore-6.0.1-forge.jar",
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/ferritecore-6.0.1-forge.jar"
+    },
+    {
+      "name": "fieldguide-forge-1.20.1-1.7.5.jar",
+      "sha256": "5c1a6165f02e0428ef4b481e534ff9cc934b156bc84466daa85f75cdabbd92d1",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/fieldguide-forge-1.20.1-1.7.5.jar"
+    },
+    {
+      "name": "forge-medievalend-1.0.1.jar",
+      "sha256": "f65d1a3defd3d9d56d498ee79b6eeda8ec91193e6c2f989581e23f8069f4499f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/forge-medievalend-1.0.1.jar"
+    },
+    {
+      "name": "framework-forge-1.20.1-0.8.0.jar",
+      "sha256": "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/framework-forge-1.20.1-0.8.0.jar"
+    },
+    {
+      "name": "ftb-chunks-forge-2001.3.7.jar",
+      "sha256": "63515959a2413ad20320f04cdc780148fed7ce97dc7ec271e2cf03f9c88d2323",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/ftb-chunks-forge-2001.3.7.jar"
+    },
+    {
+      "name": "ftb-essentials-forge-2001.2.4.jar",
+      "sha256": "e0022bfe29dc10e373947701dae1bc4ce75ee15fe21f6d89269677fbb9aebf73",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/ftb-essentials-forge-2001.2.4.jar"
+    },
+    {
+      "name": "ftb-library-forge-2001.2.12.jar",
+      "sha256": "f09335944fff8ca3ef37a40e0b125ffb6707759ede258c73f9ce9bac61bfbf96",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/ftb-library-forge-2001.2.12.jar"
+    },
+    {
+      "name": "ftb-quests-forge-2001.4.22.jar",
+      "sha256": "9ea9d159a78a2724cfe0457b024680fdb52a2126eff9cfa5280a30578f647a68",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/ftb-quests-forge-2001.4.22.jar"
+    },
+    {
+      "name": "ftb-ranks-forge-2001.1.7.jar",
+      "sha256": "ec654cb94b3be8217da91f114667d7b0170c7be2ed533ac7e4faa337d1f5b872",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/ftb-ranks-forge-2001.1.7.jar"
+    },
+    {
+      "name": "ftb-teams-forge-2001.3.2.jar",
+      "sha256": "b1cb4d82ea9f137a87e12a7aaf3329619294b56f7d70337dfd557a76e10b6e07",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/ftb-teams-forge-2001.3.2.jar"
+    },
+    {
+      "name": "geckolib-forge-1.20.1-4.8.1.jar",
+      "sha256": "d01f547bf517437408bb0116aea3a834c00e98eefe78f60bda92287f4b1eb0bc",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/geckolib-forge-1.20.1-4.8.1.jar"
+    },
+    {
+      "name": "giantspawn-1.20.1-5.3.jar",
+      "sha256": "68a015f66c7f330e2ba76f5903fa833d4c0e5dbb934a7df72c05c8ccff77d789",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/giantspawn-1.20.1-5.3.jar"
+    },
+    {
+      "name": "gliders-forge-1.2.0.jar",
+      "sha256": "c1559f0a37f6d7957a0c05f239460e3aa85d14f82906c6ff3fa5f04d59eeca3c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/gliders-forge-1.2.0.jar"
+    },
+    {
+      "name": "gpumemleakfix-1.20.1-1.8.jar",
+      "sha256": "a7019442f1b07b1a4a875fe404d04d162905cc7fd42e0b3c843aefc7b39efc46",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/gpumemleakfix-1.20.1-1.8.jar"
+    },
+    {
+      "name": "gtbcs_geomancy_plus-1.1.0-1.20.1.jar",
+      "sha256": "e894092d04a4ba2db3d0dcbaae9883dbda29d283a88b80b1bf28c848c6971c86",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/gtbcs_geomancy_plus-1.1.0-1.20.1.jar"
+    },
+    {
+      "name": "gtbcs_spell_lib-1.4.0-1.20.1.jar",
+      "sha256": "1558dc605336836635fe420c17eec53346d5f2cc4a1085e7edb782c6bb353dbf",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/gtbcs_spell_lib-1.4.0-1.20.1.jar"
+    },
+    {
+      "name": "guardvillagers-1.20.1-1.6.17.jar",
+      "sha256": "3e63e9adb1cd273ce9881593c64b513477ebefeceb6b11f29a09b2237a422ace",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/guardvillagers-1.20.1-1.6.17.jar"
+    },
+    {
+      "name": "hardcorerevival-forge-1.20.1-12.0.11.jar",
+      "sha256": "f6b23ac1fad17486c2843cacef2f1d258adafb8d29a6aa85f87b3739ec187ddf",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/hardcorerevival-forge-1.20.1-12.0.11.jar"
+    },
+    {
+      "name": "hiccups_legacy-1.5.1.jar",
+      "sha256": "688532f8b0bb60a4848a5b53abe23a872516664087c9afaaed4c2c560d38a257",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/hiccups_legacy-1.5.1.jar"
+    },
+    {
+      "name": "hidetab-1.1.2.jar",
+      "sha256": "d9ea1baf9f063a57fa31f881e4ec297143f965e96636b01fb35916bca43e5541",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/hidetab-1.1.2.jar"
+    },
+    {
+      "name": "horseman-1.20.1-1.3.15-forge.jar",
+      "sha256": "e4e068c6848791ea378c855e7f0471f077f112847c4318a5fdd5efe1bf805b96",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/horseman-1.20.1-1.3.15-forge.jar"
+    },
+    {
+      "name": "ias_spellbooks-1.1.0-1.20.1.jar",
+      "sha256": "6fc4b4b498bff7ebfde388ae8c02a7795d9a7bd9e8a4f93decb74d4ef5ff7e3f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/ias_spellbooks-1.1.0-1.20.1.jar"
+    },
+    {
+      "name": "illageandspillagerespillaged-1.2.8.jar",
+      "sha256": "295bdc3948c4ac0cd2621d835324003441ad1ad61fe6e430e3a16419335cc133",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/illageandspillagerespillaged-1.2.8.jar"
+    },
+    {
+      "name": "immersive_aircraft-1.4.0+1.20.1-forge.jar",
+      "sha256": "45dd68b6707b3eeae0c958d0242b29ec03cdd0d8fc88af20761661ebf3c456cd",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/immersive_aircraft-1.4.0%2B1.20.1-forge.jar"
+    },
+    {
+      "name": "immersive_optimization-forge-1.20.1-0.1.5.jar",
+      "sha256": "374b9d30cf8e3fe9328855f6c15c4fb49f26ee933fa6ad3a030eed7195eff517",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/immersive_optimization-forge-1.20.1-0.1.5.jar"
+    },
+    {
+      "name": "immersive_paintings-0.6.13+1.20.1-forge.jar",
+      "sha256": "069d5dffa4060d965899e607fad725c4d80a8086cef64f1d7563259b0a070633",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/immersive_paintings-0.6.13%2B1.20.1-forge.jar"
+    },
+    {
+      "name": "immersiveoverlays-1.5.0+1.20.1-forge.jar",
+      "sha256": "3323a1852db3021a127d6db6db574bd12faff10f2e51673de020b61ea3bfb9fe",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/immersiveoverlays-1.5.0%2B1.20.1-forge.jar"
+    },
+    {
+      "name": "incontrol-1.20-9.4.6.jar",
+      "sha256": "85d64d0f81f6eb6e1e2fa2a97a0aeabcea9e371498c3853b12c3697891e57f2c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/incontrol-1.20-9.4.6.jar"
+    },
+    {
+      "name": "irlandacore-1.0.0-forge-1.20.1.jar",
+      "sha256": "c832d5bf04bc32076bab82d4ca2fe4239a375b2463f68e7ba3629ade3f14a842",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/irlandacore-1.0.0-forge-1.20.1.jar"
+    },
+    {
+      "name": "ironchest-1.20.1-14.4.4.jar",
+      "sha256": "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/ironchest-1.20.1-14.4.4.jar"
+    },
+    {
+      "name": "irons_lib-1.20.1-1.0.2.1.jar",
+      "sha256": "b1b47a32120e7b85e9fded6ad7d5be2275e1b10b2966f1572a15fdc7b0ee57e8",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/irons_lib-1.20.1-1.0.2.1.jar"
+    },
+    {
+      "name": "irons_spellbooks-1.20.1-3.4.0.11.jar",
+      "sha256": "254eff137eca438972ef5d52e10e9c1da33b157f5f25d223470ea4a4abf6f2b4",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/irons_spellbooks-1.20.1-3.4.0.11.jar"
+    },
+    {
+      "name": "item-descriptions-2.5.4+1.20.1-forge.jar",
+      "sha256": "00d12cd171330751cf23c39d4588c8b8d137c02c8fb022afd8341938ebef174d",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/item-descriptions-2.5.4%2B1.20.1-forge.jar"
+    },
+    {
+      "name": "itemblacklist-1.20.1-1.1.5.jar",
+      "sha256": "d32117ce267746e001bca95ee019a155845ddf29fdb852353a47a055b3bf3011",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/itemblacklist-1.20.1-1.1.5.jar"
+    },
+    {
+      "name": "jei-1.20.1-forge-15.20.0.112.jar",
+      "sha256": "2d3a86f503dbde51afa5142951525c37e227016ce8d9e7dfd10bbdd9233f0204",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/jei-1.20.1-forge-15.20.0.112.jar"
+    },
+    {
+      "name": "jupiter-2.3.7-1.20.1-forge.jar",
+      "sha256": "1c2442a90a0228d76518bece4484241e3d2c79e50eb4435afe5e7fc0fbcaac3d",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/jupiter-2.3.7-1.20.1-forge.jar"
+    },
+    {
+      "name": "knightlib-forge-1.20.1-1.5.1.jar",
+      "sha256": "e2bb8353801854a23bc61bbba6e303c2287f80014d5f4dcc56fdc875f3767d83",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/knightlib-forge-1.20.1-1.5.1.jar"
+    },
+    {
+      "name": "kotlinforforge-4.12.0-all.jar",
+      "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/kotlinforforge-4.12.0-all.jar"
+    },
+    {
+      "name": "kubejs-forge-2001.6.5-build.26.jar",
+      "sha256": "1769312192fbf9d72f45054ba61130523bfb471b5f480a4bff8c210ec09400bb",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/kubejs-forge-2001.6.5-build.26.jar"
+    },
+    {
+      "name": "largemeals-1.20.1-1.3.0.jar",
+      "sha256": "50c8eb0f04b590861df7a3eea1f57f35fd0d823c7a325aff8b9af813b5756c4b",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/largemeals-1.20.1-1.3.0.jar"
+    },
+    {
+      "name": "letmedespawn-1.20.x-forge-1.5.0.jar",
+      "sha256": "c6be3d9a62234d96d302369ac0a0ee238bdc0cf1b7f7280532d4365e9fabc09e",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/letmedespawn-1.20.x-forge-1.5.0.jar"
+    },
+    {
+      "name": "letsdo-API-forge-1.2.15-forge.jar",
+      "sha256": "d08b99df112cfffb46e289635c79d4ac8397223320abd6469b47e202e23fa28c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/letsdo-API-forge-1.2.15-forge.jar"
+    },
+    {
+      "name": "letsdo-bakery-forge-1.1.15.jar",
+      "sha256": "a20f1b1cba05c2cf9f12b28fa28649af417fb9a4b330641236bb1b71c63b0e09",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/letsdo-bakery-forge-1.1.15.jar"
+    },
+    {
+      "name": "letsdo-bakery-forge-2.0.6.jar",
+      "sha256": "feb70544c3b8409122c26b9a80d86691c8e36508b95e24fe7bd89e3a973a947e",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/letsdo-bakery-forge-2.0.6.jar"
+    },
+    {
+      "name": "letsdo-brewery-forge-1.1.9.jar",
+      "sha256": "f889cf1258b6365873b83fb3e533e9a58da4ee381377e55d58f13a4b3cfb4840",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/letsdo-brewery-forge-1.1.9.jar"
+    },
+    {
+      "name": "letsdo-brewery-forge-2.0.6.jar",
+      "sha256": "c8ae46cac66ab2a054cac6f9353512855c2cebaf5eb2eacc38503a50f05c56ea",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/letsdo-brewery-forge-2.0.6.jar"
+    },
+    {
+      "name": "letsdo-farm_and_charm-forge-1.0.14.jar",
+      "sha256": "2311790589a58678640cb788de13bebd40efe3ed92f03e82a8fa871850a382eb",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/letsdo-farm_and_charm-forge-1.0.14.jar"
+    },
+    {
+      "name": "letsdo-furniture-forge-1.0.4.jar",
+      "sha256": "814f0e6490e8b380dc36989a0e4953d72e9c4afddb116983f86baca509d85e6b",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/letsdo-furniture-forge-1.0.4.jar"
+    },
+    {
+      "name": "letsdo-herbalbrews-forge-1.0.12.jar",
+      "sha256": "8cf03776a4a876810a2af9c9f18f73eb5a20f041b0791b6c8b8150b5441b83c1",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/letsdo-herbalbrews-forge-1.0.12.jar"
+    },
+    {
+      "name": "letsdo-meadow-forge-1.3.25.jar",
+      "sha256": "e96a241cc2b991d158bedb6e9239ce77656a9858c76345c7dc7b6eadeaa6ddcf",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/letsdo-meadow-forge-1.3.25.jar"
+    },
+    {
+      "name": "letsdo-nethervinery-forge-1.2.19.jar",
+      "sha256": "c8d1b795468ecb4a82fbafd3b9134881dbe8e6108b62ba4060922448ab0e0cd4",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/letsdo-nethervinery-forge-1.2.19.jar"
+    },
+    {
+      "name": "letsdo-vinery-forge-1.4.41.jar",
+      "sha256": "5d7e11f6e2218562ce75d60788fdcfc9ccf59e4532757c18bf37759d5fc739ee",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/letsdo-vinery-forge-1.4.41.jar"
+    },
+    {
+      "name": "letsdo-wildernature-forge-1.0.6.jar",
+      "sha256": "7e8728b33260d441331fc8894d2875f150acecae0d6051ba4b9792fc9967f280",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/letsdo-wildernature-forge-1.0.6.jar"
+    },
+    {
+      "name": "lionfishapi-2.7.jar",
+      "sha256": "aa3191415ca5263a86b7baedead2aeaffaa94f093dcd42381e4b258e450130e3",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/lionfishapi-2.7.jar"
+    },
+    {
+      "name": "lootr-forge-1.20-0.7.35.94.jar",
+      "sha256": "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/lootr-forge-1.20-0.7.35.94.jar"
+    },
+    {
+      "name": "lucky-block-forge-1.20.1-13.0.jar",
+      "sha256": "c101dd326e5ed421d0373eec065054cf5972134f639f3853d35542e77a2e184c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/lucky-block-forge-1.20.1-13.0.jar"
+    },
+    {
+      "name": "lukis-grand-capitals-1.1.3.jar",
+      "sha256": "58182dc8d306afd944e708e0480d939a9adc3fcdab75c0bebd122a32c63d3851",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/lukis-grand-capitals-1.1.3.jar"
+    },
+    {
+      "name": "minecolonies-1.20.1-1.1.1231.jar",
+      "sha256": "becc8cd7a7fac3fd9879bdb0c70b002f8ace36da024aa13ca95f99188818caaf",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/minecolonies-1.20.1-1.1.1231.jar"
+    },
+    {
+      "name": "mischief_illagers-1.2-forge-1.20.1.jar",
+      "sha256": "b6edc0ee566a4d2349beb0797655ba784a1af38187eaabf19ae07d8656e8bb15",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/mischief_illagers-1.2-forge-1.20.1.jar"
+    },
+    {
+      "name": "modernfix-forge-5.27.40+mc1.20.1.jar",
+      "sha256": "0061a53c0335693318073788c57c5288f5b8b5b3918c7561f5fb7860a394611f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/modernfix-forge-5.27.40%2Bmc1.20.1.jar"
+    },
+    {
+      "name": "modonomicon-1.20.1-forge-1.79.3.jar",
+      "sha256": "6a95475102948bff7046b53bc3882ebfdfcf8f0d7a5d14fe612e63680cfe18a3",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/modonomicon-1.20.1-forge-1.79.3.jar"
+    },
+    {
+      "name": "moonlight-1.20-2.16.32-forge.jar",
+      "sha256": "abe6ef01c6d950789f55ee06b3767aa636655d41cd55f7ca2af3a34e8752d155",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/moonlight-1.20-2.16.32-forge.jar"
+    },
+    {
+      "name": "mowzies_cataclysm-1.2.1.jar",
+      "sha256": "04d46a8a926f200747d834de36764382646014166b672fca0e32703842531c3a",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/mowzies_cataclysm-1.2.1.jar"
+    },
+    {
+      "name": "mowziesmobs-1.8.2.jar",
+      "sha256": "e8ce1768cda6f1e1fadd2321c92921b473bd0cee45ba4b8387fb30f8326cb31c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/mowziesmobs-1.8.2.jar"
+    },
+    {
+      "name": "multipiston-1.20-1.2.43-RELEASE.jar",
+      "sha256": "3102eb9915591296d14e22992d0a7baa526161b6e92058c017425c0bff19efb6",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/multipiston-1.20-1.2.43-RELEASE.jar"
+    },
+    {
+      "name": "no-telemetry-1.10.0.jar",
+      "sha256": "8e9086fefd2ef7d65d31946a91b9414a23cd1b777bbab08855039b130f0b8b2c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/no-telemetry-1.10.0.jar"
+    },
+    {
+      "name": "notenoughcrashes-4.4.9+1.20.1-forge.jar",
+      "sha256": "e944656f2671b87d52af9756c48bcfb5b90956bef1a40bf1b5fcae731a367518",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/notenoughcrashes-4.4.9%2B1.20.1-forge.jar"
+    },
+    {
+      "name": "oceansdelight-1.0.2-1.20.jar",
+      "sha256": "ea6ae6bd1459046b7d7fd2c515a80b6966ff2c629bdf22d6298f0a73432b932d",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/oceansdelight-1.0.2-1.20.jar"
+    },
+    {
+      "name": "oculus-mc1.20.1-1.8.0.jar",
+      "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/oculus-mc1.20.1-1.8.0.jar"
+    },
+    {
+      "name": "orabyxbounty-1.0.2-1.20.1.jar",
+      "sha256": "4eb016faf7ac129f8e01f922df9818008b7a10209b627e2e408d596ada1d5477",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/orabyxbounty-1.0.2-1.20.1.jar"
+    },
+    {
+      "name": "oriental_armoury-1.0.0-forge-1.20.1.jar",
+      "sha256": "2e3c9c245a8314d8f88544040a00a7d9dd61c6b91291276b570f44a428a2ef32",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/oriental_armoury-1.0.0-forge-1.20.1.jar"
+    },
+    {
+      "name": "overgeared-1.20.1-1.6.29.jar",
+      "sha256": "84a0902ad2e60098247bd23b38634fc268a8a49890b94095c805adc1f538c1bc",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/overgeared-1.20.1-1.6.29.jar"
+    },
+    {
+      "name": "overgearedspartan-0.67.jar",
+      "sha256": "53487237b7bcf3a1fb6e21abe08a0ca5b9aa9cba983eefa073eda309a9db45e5",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/overgearedspartan-0.67.jar"
+    },
+    {
+      "name": "overgearedspartan_shld-0.72.jar",
+      "sha256": "b5718bbe5c3777a0fe53d52015b5723e8f462577ac6c8b87075717f5cc6f9d17",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/overgearedspartan_shld-0.72.jar"
+    },
+    {
+      "name": "packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+      "sha256": "12f96ecb8e61e0b3d3f0ca5701f479904904501dd251aa7bb60205afdf6bc2ce",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/packetfixer-3.3.2-1.18-1.20.4-merged.jar"
+    },
+    {
+      "name": "particlerain-4.0.0-beta.10+1.20.1-forge.jar",
+      "sha256": "84b9fa953a77a88b69e9fa80442f4e3c5c92bace4467b014f8128a1128707b7c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/particlerain-4.0.0-beta.10%2B1.20.1-forge.jar"
+    },
+    {
+      "name": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
+    },
+    {
+      "name": "playingcards-2.0.1.jar",
+      "sha256": "4af269740f49c3a2364def63b122e1f9494da70a7d3686d8b81c6ef6078c7f08",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/playingcards-2.0.1.jar"
+    },
+    {
+      "name": "polly_pets-1.3-forge-1.20.1.jar",
+      "sha256": "f5be535190e85fb306e9f66fb6ff47558db4328c3e1feaf7441e15eb867f7774",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/polly_pets-1.3-forge-1.20.1.jar"
+    },
+    {
+      "name": "polymorph-forge-0.49.10+1.20.1.jar",
+      "sha256": "cbe63a0a1cb6ae8dbc0e29bb96d149a137cd4e714b295fa49d230994091d157f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/polymorph-forge-0.49.10%2B1.20.1.jar"
+    },
+    {
+      "name": "ppfluids-1.20.1-2.0.1.jar",
+      "sha256": "ed67aae3cd0e8f4036e1c372fdb8e5344f5e177f9041690053a994d221950222",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/ppfluids-1.20.1-2.0.1.jar"
+    },
+    {
+      "name": "radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+      "sha256": "b42584e2672d6b5329959ec2b0f342395b19389fed0ee4d86ea71072f42f77a0",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/radium-mc1.20.1-0.12.4%2Bgit.26c9d8e.jar"
+    },
+    {
+      "name": "rhino-forge-2001.2.3-build.10.jar",
+      "sha256": "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/rhino-forge-2001.2.3-build.10.jar"
+    },
+    {
+      "name": "riding_partners-forge-1.0.0.jar",
+      "sha256": "b36c6d0584db31f8e72bd51dcde61c2feb2ace876dfcaed87d78899dfb43ef12",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/riding_partners-forge-1.0.0.jar"
+    },
+    {
+      "name": "rpa-1.6.1-forge-1.20.1.jar",
+      "sha256": "53b40c46beb0c9862d51c2a6b651f337cc44facc058a11cd435f138dba853271",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/rpa-1.6.1-forge-1.20.1.jar"
+    },
+    {
+      "name": "rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+      "sha256": "32c28582040dfab4e167542bf319107296e9eff3cb17f4f576eba036f2d256da",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/rubidium-extra-0.5.4.4%2Bmc1.20.1-build.131.jar"
+    },
+    {
+      "name": "rusticdelight-forge-1.20.1-1.5.0.jar",
+      "sha256": "d42714306b103e74aa0df8f8c7817227bb0424027d6dbf577f99afb6f707e7b6",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/rusticdelight-forge-1.20.1-1.5.0.jar"
+    },
+    {
+      "name": "scorched_guns_blueprint_recipes-1.0.0-forge-1.20.1.jar",
+      "sha256": "014f0f9364d9b354af5a50ef46a1f5ef6519abf5e7af4bed373d02e4c3f94bc4",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/scorched_guns_blueprint_recipes-1.0.0-forge-1.20.1.jar"
+    },
+    {
+      "name": "siege-machines-1.20.1-forge-1.39.jar",
+      "sha256": "6a24c20ff92a9b804656bdb3dc1d06b601bc258d0c5b6fb644ccfc680555d6a1",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/siege-machines-1.20.1-forge-1.39.jar"
+    },
+    {
+      "name": "simpleshops-1.2.2.jar",
+      "sha256": "2afb0026e34601f1da9d0a11ddea41a63de69df110d9a3d0ada0523a33f9eeb2",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/simpleshops-1.2.2.jar"
+    },
+    {
+      "name": "sky_whale_ship-1.20.1.jar",
+      "sha256": "8cf312214d33fce2206c60c4a73374d4a83a192896c6a87d779b724ff3f310ce",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/sky_whale_ship-1.20.1.jar"
+    },
+    {
+      "name": "sliceanddice-forge-3.6.0.jar",
+      "sha256": "bafdcbeda044603b59eb16059829a6698c1a58d1ce865b8658e598f2718d315a",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/sliceanddice-forge-3.6.0.jar"
+    },
+    {
+      "name": "smallcolonies 1.20.1 v1.8.jar",
+      "sha256": "c645c9dcab5ca0b786e9ecb4ceb45e36a4212ec4e16ac6b468ee5777f49194de",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/smallcolonies%201.20.1%20v1.8.jar"
+    },
+    {
+      "name": "smallships-forge-1.20.1-2.0.0-b1.4.jar",
+      "sha256": "f79a4dcab3e1c8e4d14467cbfa655f4a16e0f0d0901e8f9bde9e3f5e36735eff",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/smallships-forge-1.20.1-2.0.0-b1.4.jar"
+    },
+    {
+      "name": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "sha256": "591fa317c4e462039dae01967bf370acb284d5118cf5839a33f1d01b6c0def3c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar"
+    },
+    {
+      "name": "spanishdelight-1.0.2-1.20.1.jar",
+      "sha256": "5fd466bfb700abd0e1ca319efdc1c0280fc60299af1a62762f847da0feea9c2b",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/spanishdelight-1.0.2-1.20.1.jar"
+    },
+    {
+      "name": "spartantoolkit-1.20.1-1.6.1.jar",
+      "sha256": "e33951b88742d7547c898e1594511bc22329b5638469120ce04e96f806613ca7",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/spartantoolkit-1.20.1-1.6.1.jar"
+    },
+    {
+      "name": "stateobserver-forge-1.20.1-1.4.3.jar",
+      "sha256": "7deb690b98f503fc2bed51a9b68a68b24feba46073c2eae2ea73e2e32c26833d",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/stateobserver-forge-1.20.1-1.4.3.jar"
+    },
+    {
+      "name": "structureessentials-1.20.1-5.0.jar",
+      "sha256": "602c8f17f6d805458c3da679b28183b0dfb4987457fd8a365de339d127f22831",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/structureessentials-1.20.1-5.0.jar"
+    },
+    {
+      "name": "structurize-1.20.1-1.0.816.jar",
+      "sha256": "a4dc864c13a825546e09805ce754a4dc8d92919a69b940ce284b546dad4e9699",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/structurize-1.20.1-1.0.816.jar"
+    },
+    {
+      "name": "stylecolonies-1.20.1-1.15.63.jar",
+      "sha256": "5e5e4ccd65b44a099729aedd5067ebd5ce00ebecf732be58eff800e420dcaaee",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/stylecolonies-1.20.1-1.15.63.jar"
+    },
+    {
+      "name": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "sha256": "bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
+    },
+    {
+      "name": "supplementaries-1.20-3.1.43-forge.jar",
+      "sha256": "6132fc23a2fe1da0ca57439b35526ee9a1a8d898397ff8e61b2d08fb951cdf6a",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/supplementaries-1.20-3.1.43-forge.jar"
+    },
+    {
+      "name": "table_top_craft-1.20.1-6.1.2.jar",
+      "sha256": "f27c7028ba08932986b170c06abcf991c98af14746ac045e237781b58ac5d82c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/table_top_craft-1.20.1-6.1.2.jar"
+    },
+    {
+      "name": "tarotcards-1.20-1.7.0.jar",
+      "sha256": "2ef1cd1476ba6ccb81eba28f9247271c3318b2f154b2623af17453125dccfdce",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/tarotcards-1.20-1.7.0.jar"
+    },
+    {
+      "name": "threateningly_mobs-1.1.1-forge-1.20.1.jar",
+      "sha256": "c67640d6c41f24a28d0b2d2a48dd6014b24242ef1b1e4d6fda349d48df48c5a6",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/threateningly_mobs-1.1.1-forge-1.20.1.jar"
+    },
+    {
+      "name": "toms_storage-1.20-1.7.1.jar",
+      "sha256": "08552be86f960111e501227707dc089c91b8a55f6c1be09baee188338576ff9b",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/toms_storage-1.20-1.7.1.jar"
+    },
+    {
+      "name": "torchmaster-20.1.9.jar",
+      "sha256": "7c8984a2dc11c29147d0677958e9146a18578068bc00fbfcb1cddbaa60557682",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/torchmaster-20.1.9.jar"
+    },
+    {
+      "name": "towntalk-1.20.1-1.1.0.jar",
+      "sha256": "7ba6ab6ff1422b9175c3a7f232309db2c82d3ca3787547c79da7839cd78c262f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/towntalk-1.20.1-1.1.0.jar"
+    },
+    {
+      "name": "traveloptics-4.4.0-1.20.1.jar",
+      "sha256": "2df226b6078604a3abb50c44fb7bb81850cc831548fb3510803ccc5e5430a8bf",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/traveloptics-4.4.0-1.20.1.jar"
+    },
+    {
+      "name": "trotting_wagons-1.0.4.jar",
+      "sha256": "0c5a99131a2ebe7a4bda783be38a5ca4059820a86a8a604a58f42882cd15b839",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/trotting_wagons-1.0.4.jar"
+    },
+    {
+      "name": "unusual_furniture-1.1.1-forge-1.20.1.jar",
+      "sha256": "53bf4c82dfd4037b56d1b17fc88f50e9fa23cb41981ff5006cff943485caa2a4",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/unusual_furniture-1.1.1-forge-1.20.1.jar"
+    },
+    {
+      "name": "vanillaplustools-1.20-1.0.4.jar",
+      "sha256": "190164a2bdb7ff2ea68f57133ff0a95f9afd3c85b5f7749c8da5a3382271a457",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/vanillaplustools-1.20-1.0.4.jar"
+    },
+    {
+      "name": "visualhealth-forge-1.20.1-2.0.2.jar",
+      "sha256": "80ae96bdcf7f1909ecd9c8b5f16c32cb70f80cb4a5b22a3d9e8c2b7b7141a14c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/visualhealth-forge-1.20.1-2.0.2.jar"
+    },
+    {
+      "name": "voicechat-forge-1.20.1-2.6.18.jar",
+      "sha256": "bd677c153b140263c007de7e06545dbd1cdd1084812fd02241db8ba5c5055b3f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/voicechat-forge-1.20.1-2.6.18.jar"
+    },
+    {
+      "name": "waystones-forge-1.20.1-14.1.20.jar",
+      "sha256": "5ecc6535596b5954f6293224be6b35805c64f4d4aedc2b9e32d9508dd529cabd",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/waystones-forge-1.20.1-14.1.20.jar"
+    },
+    {
+      "name": "witherreincarnated-1.20.1-1.0.5.jar",
+      "sha256": "00589726de7d82628d92761394a8a3e6b153c28942f50c9ae6ba7860b0fab80a",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/witherreincarnated-1.20.1-1.0.5.jar"
+    },
+    {
+      "name": "worldedit-mod-7.2.15.jar",
+      "sha256": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/worldedit-mod-7.2.15.jar"
+    },
+    {
+      "name": "xaerominimap-forge-1.20.1-25.3.13.jar",
+      "sha256": "107a686c1a1637998c8ce7fa2262bb8c36f24277d6b2cf4b512a0b176ff41e89",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/xaerominimap-forge-1.20.1-25.3.13.jar"
+    },
+    {
+      "name": "xaeros_waystones_compatibility-1.1 - 1.20.1.jar",
+      "sha256": "d330d9cb7592035cf580a75621b1113c0fc50dd1ad7e1b5b071155930394f3da",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/xaeros_waystones_compatibility-1.1%20-%201.20.1.jar"
+    },
+    {
+      "name": "xaeroworldmap-forge-1.20.1-1.40.16.jar",
+      "sha256": "49fbf2a0c91ca7e161b17f3b1784d4e798d0cd19f361ad3ebf6613e559f6371d",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/xaeroworldmap-forge-1.20.1-1.40.16.jar"
+    },
+    {
+      "name": "xercamusic-1.20.1-1.0.3.jar",
+      "sha256": "c5cf4c8a584193304bf472809ef884da13ff4e5e23bae412c3468fbc3d1a0a39",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/xercamusic-1.20.1-1.0.3.jar"
+    },
+    {
+      "name": "xercapaint-1.20.1-1.1.0.jar",
+      "sha256": "0bd767e364825356091cfa35c4ea22f53504c7fb58dbc8e33781fefcabfb2d8b",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/xercapaint-1.20.1-1.1.0.jar"
+    },
+    {
+      "name": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
+      "url": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/mods/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar"
+    }
+  ]
+}
