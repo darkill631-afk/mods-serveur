@@ -3,11 +3,11 @@
   "forge": "47.4.10",
   "server": {
     "ip": "talesofpaceanica.mine.fun",
-    "port": 21745
+    "port": 25565
   },
   "ram": {
-    "min": "7G",
-    "max": "11G"
+    "min": "4G",
+    "max": "8G"
   },
   "mods": [
     {
@@ -188,7 +188,7 @@
     {
       "name": "L_Enders_Cataclysm-3.16.jar",
       "sha256": "ac1028f4bfaa2629d80ce3c1f26e28ceec2e6f2aaaac3bb03dd8957856d2e7ca",
-      "manifestUrl": "https://raw.githubusercontent.com/darkill631-afk/mods-serveur/main/manifest.json"
+      "url": "https://github.com/darkill631-afk/mods-serveur/releases/download/V1/L_Enders_Cataclysm-3.16.jar"
     },
     {
       "name": "Lazr's Lib-1.20-1.1.1.jar",
